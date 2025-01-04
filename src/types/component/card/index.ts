@@ -1,8 +1,9 @@
 export interface ICard {
-  id: number;
-  type: string;
+  id?: number;
+  type?: string;
   title?: string;
   do?: string;
+  find?: string;
   drink?: string;
   who?: string;
   action?: string;

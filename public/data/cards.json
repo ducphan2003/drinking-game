@@ -139,241 +139,241 @@
   },
   {
     "id": 24,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai từng có trên 3 mối tình",
     "drink": "Uống 1 ly"
   },
   {
     "id": 25,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai là con đỗ nghèo khỉ",
     "drink": "Uống 1 ly"
   },
   {
     "id": 26,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai có hình xăm nhiều nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 27,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai là rích kid",
     "drink": "Uống 1 ly"
   },
   {
     "id": 28,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai có nhiều hình trong điện thoại nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 29,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Người hay chửi thề nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 30,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai đang hạnh phúc trong 1/nhiều mối quan hệ",
     "drink": "Uống 1 ly"
   },
   {
     "id": 31,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai từng trốn học đi net",
     "drink": "Uống 1 ly"
   },
   {
     "id": 32,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai cho rằng mình xinh trai - đẹp gái",
     "drink": "Uống 1 ly"
   },
   {
     "id": 33,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai từng bị mời phụ huynh",
     "drink": "Uống 1 ly"
   },
   {
     "id": 34,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai mặc áo đen",
     "drink": "Uống 1 ly"
   },
   {
     "id": 35,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai từng bị cắm sừng",
     "drink": "Uống 1 ly cho tỉnh"
   },
   {
     "id": 36,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai say",
     "drink": "(Hỏi trước hẵng nói cái này) Uống 1 ly"
   },
   {
     "id": 37,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai có nhiều acc clone nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 38,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Chỉ ra ai là chuyên gia stalk FB",
     "drink": "Uống 1 ly"
   },
   {
     "id": 39,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai đã kết hôn",
     "drink": "Uống 1 ly"
   },
   {
     "id": 40,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai chưa từng bị mất acc FB",
     "drink": "Uống 1 ly"
   },
   {
     "id": 41,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai có má lúm đồng tiền",
     "drink": "Uống 1 ly"
   },
   {
     "id": 42,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Hôm nay ai vừa tắm vừa hát",
     "drink": "Uống 1 ly"
   },
   {
     "id": 43,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai từng yêu xa (khoảng cách cho mn chọn)",
     "drink": "Uống 1 ly"
   },
   {
     "id": 44,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Người chơi hệ nghiện",
     "drink": "Uống 1 ly"
   },
   {
     "id": 45,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai là fan MU",
     "drink": "Uống 1 ly"
   },
   {
     "id": 46,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai có nhiều ứng dụng mạng xã hội nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 47,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai có nhiều follower trên FB nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 48,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai thấp hơn bạn",
     "drink": "Uống 1 ly"
   },
   {
     "id": 49,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai cao hơn bạn",
     "drink": "Uống 1 ly"
   },
   {
     "id": 50,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai chưa có bằng lái xe máy",
     "drink": "Uống 1 ly"
   },
   {
     "id": 51,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai từng mở mồm đòi lấy chồng/vợ đại gia",
     "drink": "Uống 1 ly"
   },
   {
     "id": 52,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai nhuộm tóc",
     "drink": "Uống 1 ly"
   },
   {
     "id": 53,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai có điện thoại đắt nhất uống với người có điện thoại rẻ nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 54,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai đang bị deadline dí",
     "drink": "Uống 1 ly"
   },
   {
     "id": 55,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai là sếp",
     "drink": "Uống 1 ly"
   },
   {
     "id": 56,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Hôm nay ai đến trễ nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 57,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Người lớn tuổi nhất uống cùng người nhỏ tuổi nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 58,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai lowkey nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 59,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai từng tắm mưa",
     "drink": "Uống 1 ly"
   },
   {
     "id": 60,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai mặc áo cùng màu với bạn",
     "drink": "Uống 1 ly. Không có thì bạn uống"
   },
   {
     "id": 61,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai để hình nền điện thoại là bản thân",
     "drink": "Uống 1 ly"
   },
   {
     "id": 62,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai đi làm muộn nhất",
     "drink": "Uống 1 ly"
   },
   {
     "id": 63,
-    "type": "find_or_drink",
+    "type": "find_then_drink",
     "find": "Ai lương trên 5 triệu",
     "drink": "Uống 1 ly"
   },

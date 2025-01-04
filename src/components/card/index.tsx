@@ -5,7 +5,6 @@ import { ICard } from "@/types/component/card";
 import cards from "@/styles/images/cards";
 
 export function DoOrDrinkCard({ card }: { card: ICard }): JSX.Element {
-  console.log(card);
   return (
     <div
       className="w-[300px] h-[500px] rounded-xl shadow-lg shadow-coolGray-500 cursor-pointer"
@@ -42,7 +41,6 @@ export function DoOrDrinkCard({ card }: { card: ICard }): JSX.Element {
 }
 
 export function FindThenDrinkCard({ card }: { card: ICard }): JSX.Element {
-  console.log(card);
   return (
     <div
       className="w-[300px] h-[500px] rounded-xl shadow-lg shadow-coolGray-500 cursor-pointer"
@@ -58,7 +56,7 @@ export function FindThenDrinkCard({ card }: { card: ICard }): JSX.Element {
           <p className="text-regular32 text-[#3E3332] font-denkOne">Find:</p>
           <div className="flex justify-center items-center w-full h-full">
             <p className="text-center text-[#2B0B00] font-gluten text-bold24">
-              {card?.do}
+              {card?.find}
             </p>
           </div>
         </div>
@@ -79,7 +77,6 @@ export function FindThenDrinkCard({ card }: { card: ICard }): JSX.Element {
 }
 
 export function MagicCard({ card }: { card: ICard }): JSX.Element {
-  console.log(card);
   return (
     <div
       className="w-[300px] h-[500px] rounded-xl shadow-lg shadow-coolGray-500 cursor-pointer"
@@ -115,7 +112,6 @@ export function MagicCard({ card }: { card: ICard }): JSX.Element {
 }
 
 export function GameCard({ card }: { card: ICard }): JSX.Element {
-  console.log(card);
   return (
     <div
       className="w-[300px] h-[500px] rounded-xl shadow-lg shadow-coolGray-500 cursor-pointer"
@@ -151,7 +147,6 @@ export function GameCard({ card }: { card: ICard }): JSX.Element {
 }
 
 export function SelfCard({ card }: { card: ICard }): JSX.Element {
-  console.log(card);
   return (
     <div
       className="w-[300px] h-[500px] rounded-xl shadow-lg shadow-coolGray-500 cursor-pointer"
