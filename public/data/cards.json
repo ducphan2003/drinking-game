@@ -1,0 +1,815 @@
+[
+  {
+    "id": 1,
+    "type": "do_or_drink",
+    "do": "Nhảy một điệu hot trend Tóp tóp",
+    "drink": "Uống 2 ly"
+  },
+  {
+    "id": 2,
+    "type": "do_or_drink",
+    "do": "Khoe 5 bức ảnh gần nhất trong điện thoại (không được xem trước)",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 3,
+    "type": "do_or_drink",
+    "do": "Thơm 1 cái, ai cũng được, vã lắm rồi",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 4,
+    "type": "do_or_drink",
+    "do": "Kể một câu chuyện cười",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 5,
+    "type": "do_or_drink",
+    "do": "Đọc đúng họ và tên của tất cả mọi người trên bàn. Mỗi lần sai uống 1 ly",
+    "drink": "Uống 5 ly"
+  },
+  {
+    "id": 6,
+    "type": "do_or_drink",
+    "do": "Show số dư tài khoản",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 7,
+    "type": "do_or_drink",
+    "do": "Hát một bài bất kỳ",
+    "drink": "Uống 2 ly"
+  },
+  {
+    "id": 8,
+    "type": "do_or_drink",
+    "do": "Chỉ ra người bạn ghét nhất trên bàn này",
+    "drink": "Uống 2 ly"
+  },
+  {
+    "id": 9,
+    "type": "do_or_drink",
+    "do": "Nêu 3 lý do bạn thích người yêu hiện tại/gần nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 10,
+    "type": "do_or_drink",
+    "do": "Tất cả hát một bài bất kỳ, bạn nhảy theo",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 11,
+    "type": "do_or_drink",
+    "do": "Tựa đầu vào người bên phải trong 1 vòng",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 12,
+    "type": "do_or_drink",
+    "do": "Kể về kỷ niệm nhục nhã",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 13,
+    "type": "do_or_drink",
+    "do": "Để người khác đăng status FB",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 14,
+    "type": "do_or_drink",
+    "do": "Tất cả phải nói ra 1 nickname (game/fb) ngày xưa của mình",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 15,
+    "type": "do_or_drink",
+    "do": "Show ảnh người yêu cũ",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 16,
+    "type": "do_or_drink",
+    "do": "Xin info một người lạ gần đó",
+    "drink": "Không làm/không thành công, uống 1 ly. Bạn thành công thì mọi người uống 1 ly"
+  },
+  {
+    "id": 17,
+    "type": "do_or_drink",
+    "do": "Kể lý do chia tay/nghỉ việc gần đây",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 18,
+    "type": "do_or_drink",
+    "do": "Kể 3 điều không thích ở sếp",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 19,
+    "type": "do_or_drink",
+    "do": "Gửi tin nhắn: 'Tớ thích cậu' tới người đầu tiên ở mess/zalo",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 20,
+    "type": "do_or_drink",
+    "do": "Hôn một người cùng giới do mọi người chỉ định (hôn trên người là được)",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 21,
+    "type": "do_or_drink",
+    "do": "Tất cả mọi người làm bài thể dục nho nhỏ",
+    "drink": ""
+  },
+  {
+    "id": 22,
+    "type": "do_or_drink",
+    "do": "Lắc mông theo nhịp trong 15s",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 23,
+    "type": "do_or_drink",
+    "do": "Nhảy gangnam style 15s",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 24,
+    "type": "find_or_drink",
+    "find": "Ai từng có trên 3 mối tình",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 25,
+    "type": "find_or_drink",
+    "find": "Ai là con đỗ nghèo khỉ",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 26,
+    "type": "find_or_drink",
+    "find": "Ai có hình xăm nhiều nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 27,
+    "type": "find_or_drink",
+    "find": "Ai là rích kid",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 28,
+    "type": "find_or_drink",
+    "find": "Ai có nhiều hình trong điện thoại nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 29,
+    "type": "find_or_drink",
+    "find": "Người hay chửi thề nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 30,
+    "type": "find_or_drink",
+    "find": "Ai đang hạnh phúc trong 1/nhiều mối quan hệ",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 31,
+    "type": "find_or_drink",
+    "find": "Ai từng trốn học đi net",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 32,
+    "type": "find_or_drink",
+    "find": "Ai cho rằng mình xinh trai - đẹp gái",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 33,
+    "type": "find_or_drink",
+    "find": "Ai từng bị mời phụ huynh",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 34,
+    "type": "find_or_drink",
+    "find": "Ai mặc áo đen",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 35,
+    "type": "find_or_drink",
+    "find": "Ai từng bị cắm sừng",
+    "drink": "Uống 1 ly cho tỉnh"
+  },
+  {
+    "id": 36,
+    "type": "find_or_drink",
+    "find": "Ai say",
+    "drink": "(Hỏi trước hẵng nói cái này) Uống 1 ly"
+  },
+  {
+    "id": 37,
+    "type": "find_or_drink",
+    "find": "Ai có nhiều acc clone nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 38,
+    "type": "find_or_drink",
+    "find": "Chỉ ra ai là chuyên gia stalk FB",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 39,
+    "type": "find_or_drink",
+    "find": "Ai đã kết hôn",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 40,
+    "type": "find_or_drink",
+    "find": "Ai chưa từng bị mất acc FB",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 41,
+    "type": "find_or_drink",
+    "find": "Ai có má lúm đồng tiền",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 42,
+    "type": "find_or_drink",
+    "find": "Hôm nay ai vừa tắm vừa hát",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 43,
+    "type": "find_or_drink",
+    "find": "Ai từng yêu xa (khoảng cách cho mn chọn)",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 44,
+    "type": "find_or_drink",
+    "find": "Người chơi hệ nghiện",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 45,
+    "type": "find_or_drink",
+    "find": "Ai là fan MU",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 46,
+    "type": "find_or_drink",
+    "find": "Ai có nhiều ứng dụng mạng xã hội nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 47,
+    "type": "find_or_drink",
+    "find": "Ai có nhiều follower trên FB nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 48,
+    "type": "find_or_drink",
+    "find": "Ai thấp hơn bạn",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 49,
+    "type": "find_or_drink",
+    "find": "Ai cao hơn bạn",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 50,
+    "type": "find_or_drink",
+    "find": "Ai chưa có bằng lái xe máy",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 51,
+    "type": "find_or_drink",
+    "find": "Ai từng mở mồm đòi lấy chồng/vợ đại gia",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 52,
+    "type": "find_or_drink",
+    "find": "Ai nhuộm tóc",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 53,
+    "type": "find_or_drink",
+    "find": "Ai có điện thoại đắt nhất uống với người có điện thoại rẻ nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 54,
+    "type": "find_or_drink",
+    "find": "Ai đang bị deadline dí",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 55,
+    "type": "find_or_drink",
+    "find": "Ai là sếp",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 56,
+    "type": "find_or_drink",
+    "find": "Hôm nay ai đến trễ nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 57,
+    "type": "find_or_drink",
+    "find": "Người lớn tuổi nhất uống cùng người nhỏ tuổi nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 58,
+    "type": "find_or_drink",
+    "find": "Ai lowkey nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 59,
+    "type": "find_or_drink",
+    "find": "Ai từng tắm mưa",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 60,
+    "type": "find_or_drink",
+    "find": "Ai mặc áo cùng màu với bạn",
+    "drink": "Uống 1 ly. Không có thì bạn uống"
+  },
+  {
+    "id": 61,
+    "type": "find_or_drink",
+    "find": "Ai để hình nền điện thoại là bản thân",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 62,
+    "type": "find_or_drink",
+    "find": "Ai đi làm muộn nhất",
+    "drink": "Uống 1 ly"
+  },
+  {
+    "id": 63,
+    "type": "find_or_drink",
+    "find": "Ai lương trên 5 triệu",
+    "drink": "Uống 1 ly"
+  },
+
+  {
+    "id": 64,
+    "type": "magic",
+    "title": "Kim bài miễn tử",
+    "content": "Bạn được phép bỏ qua 1 lượt uống bất kỳ trong cuộc chơi",
+    "penalty": "Chỉ được dùng một lần"
+  },
+  {
+    "id": 65,
+    "type": "magic",
+    "title": "Đồng cam cộng khổ",
+    "content": "Chọn một người bất kỳ, người này uống bao nhiêu thì người kia uống bấy nhiêu",
+    "penalty": "Kết thúc khi cả 2 đồng ý"
+  },
+  {
+    "id": 66,
+    "type": "magic",
+    "title": "Nhường cơm sẻ áo",
+    "content": "Trong một lượt uống, bạn chọn một người để giúp bạn uống một nửa",
+    "penalty": ""
+  },
+  {
+    "id": 67,
+    "type": "magic",
+    "title": "Bóng cười",
+    "content": "Tất cả phải cười như hút được bóng, trong 2 vòng chơi",
+    "penalty": "Ai ngừng cười uống 1 ly"
+  },
+  {
+    "id": 68,
+    "type": "magic",
+    "title": "Từ cấm",
+    "content": "Chọn một từ, ai nói sẽ bị phạt. Hiệu lực tới cuối buổi",
+    "penalty": "Ai nói từ đó thì uống 1 ly"
+  },
+  {
+    "id": 69,
+    "type": "magic",
+    "title": "Pháp sư câm",
+    "content": "Chọn một người, họ sẽ bị câm",
+    "penalty": "Nó dám nói thì uống 1 ly"
+  },
+  {
+    "id": 70,
+    "type": "magic",
+    "title": "Vùng đất cấm",
+    "content": "Tất cả mọi người không được đi nhà vệ sinh trong 2 vòng",
+    "penalty": "Muốn đi thì uống 1 ly"
+  },
+  {
+    "id": 71,
+    "type": "magic",
+    "title": "Thần tài tới",
+    "content": "Ai mới uống thì uống thêm ly nữa",
+    "penalty": ""
+  },
+  {
+    "id": 72,
+    "type": "magic",
+    "title": "Khu phố văn hoá",
+    "content": "Cấm chửi thề trong 2 vòng",
+    "penalty": "Ai láo uống 1 ly"
+  },
+  {
+    "id": 73,
+    "type": "magic",
+    "title": "Y tá",
+    "content": "Trong 2 vòng, ai ho sẽ được bạn mời 1 ly",
+    "penalty": ""
+  },
+  {
+    "id": 74,
+    "type": "magic",
+    "title": "Nhà ai nấy giữ",
+    "content": "Mỗi người phải nắm tay một người trong 1 vòng",
+    "penalty": "Cặp nào thua uống 1 ly"
+  },
+  {
+    "id": 75,
+    "type": "magic",
+    "title": "Kiếm hiệp Tiên Dung",
+    "content": "Trong một vòng, mọi người phải nói chuyện bằng giọng kiếm hiệp",
+    "penalty": "Mỗi lần nói sai uống 1 ly"
+  },
+  {
+    "id": 76,
+    "type": "magic",
+    "title": "Bị tật miệng",
+    "content": "Chọn một chữ cái và mọi người phải nói lái theo chữ đó trong 1 vòng. Ví dụ: Nhột nhai nha dô",
+    "penalty": "Mỗi lần nói sai uống 1 ly"
+  },
+  {
+    "id": 77,
+    "type": "game",
+    "title": "Ai hiểu tôi nhất",
+    "content": "Nói 3 điều về bạn, 2 thật - 1 giả. Mọi người sẽ đoán điều nào là giả",
+    "penalty": "Đoán sai uống 1 ly"
+  },
+  {
+    "id": 78,
+    "type": "game",
+    "title": "Nối từ",
+    "content": "Chơi nối từ, bắt đầu từ bạn",
+    "penalty": "Ai thua uống 1 ly"
+  },
+  {
+    "id": 79,
+    "type": "game",
+    "title": "Đếm số",
+    "content": "Mọi người giơ tay và nói số lần lượt từ 1 - 10. Ai nói trùng sẽ thua",
+    "penalty": "Ai thua uống 1 ly"
+  },
+  {
+    "id": 80,
+    "type": "game",
+    "title": "Tam sao thất bản",
+    "content": "Chọn 2 người khác để có 3 người chơi. Cung cấp 1 từ, nói cho 1 người chơi, lần lượt miêu tả cho người còn lại",
+    "penalty": "Thua thì cả 3 uống 1 ly"
+  },
+  {
+    "id": 81,
+    "type": "game",
+    "title": "Demo đám cưới",
+    "content": "Chọn một người và uống giao bôi với người đó",
+    "penalty": ""
+  },
+  {
+    "id": 82,
+    "type": "game",
+    "title": "Bợm nhậu",
+    "content": "Âm thầm đếm 3, 2, 1. Sau đó nói cầm ly sau cùng uống 1 ly",
+    "penalty": "Ai nhanh tay nhất uống 1 ly"
+  },
+  {
+    "id": 83,
+    "type": "game",
+    "title": "Bạn thật tuyệt vời",
+    "content": "Kể ra 3 thành tích mà bạn tự hào. Nếu mọi người công nhận thì phải nâng ly chúc mừng bạn",
+    "penalty": ""
+  },
+  {
+    "id": 84,
+    "type": "game",
+    "title": "Anh em vượt ngàn chông gai",
+    "content": "Tất cả uống 1 ly mà không dùng tay",
+    "penalty": ""
+  },
+  {
+    "id": 85,
+    "type": "game",
+    "title": "Con người social",
+    "content": "Tất cả ngửa màn hình điện thoại, bật thông báo",
+    "penalty": "Ai có thông báo sớm nhất uống 1 ly"
+  },
+  {
+    "id": 86,
+    "type": "game",
+    "title": "Thảo mai",
+    "content": "Khen từng người một đến khi họ hài lòng.",
+    "penalty": "Mỗi lần bỏ buộc uống 1 ly"
+  },
+  {
+    "id": 87,
+    "type": "game",
+    "title": "Người bắt trend",
+    "content": "Kể tên 5 trend hot trong năm nay trong vòng 20s",
+    "penalty": "Uống 1 ly"
+  },
+  {
+    "id": 88,
+    "type": "game",
+    "title": "Bịt mắt đoán dê",
+    "content": "Bạn bị bịt mắt, sờ tay và đoán người.",
+    "penalty": "Bạn đoán sai uống 1 ly, đoán đùng thì người đó uống 1 ly"
+  },
+  {
+    "id": 89,
+    "type": "game",
+    "title": "Súc vật",
+    "content": "Lần lượt từ bạn, chọn một con vật khác nhau. Sau đó giả tiếng",
+    "penalty": "Ai giả dở nhất thì uống"
+  },
+  {
+    "id": 90,
+    "type": "game",
+    "title": "Muôn vàn trái cây",
+    "content": "Lần lượt từ bạn, nói một loại quả.",
+    "penalty": "Ai nói trùng/không nói được, uống 1 ly"
+  },
+  {
+    "id": 91,
+    "type": "game",
+    "title": "Muôn vàn con vật",
+    "content": "Lần lượt từ bạn, nói một con vật.",
+    "penalty": "Ai nói trùng/không nói được, uống 1 ly"
+  },
+  {
+    "id": 92,
+    "type": "game",
+    "title": "Chúa tể meme",
+    "content": "Diễn tả lần lượt từ 3-5 meme. Ai đoán đùng đầu tiên thì được tha",
+    "penalty": "Ai không đoán được thì uống"
+  },
+  {
+    "id": 93,
+    "type": "game",
+    "title": "Chúa tể kiến thức",
+    "content": "Mỗi người kể về 1 sự thật thú vị",
+    "penalty": "Ai ấn tượng nhất thì miễn uống"
+  },
+  {
+    "id": 94,
+    "type": "game",
+    "title": "Oẳn tù xì",
+    "content": "Chơi oẳn tù xì với mọi người trong vòng.",
+    "penalty": "Thắng -1, thua +1"
+  },
+  {
+    "id": 95,
+    "type": "game",
+    "title": "Thử thách kiên nhẫn",
+    "content": "Bạn và một người khác cụng ly cho tới khi có một người uống",
+    "penalty": "Cả 2 uống 2 ly"
+  },
+  {
+    "id": 95,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng muốn nghỉ công việc hiện tại"
+  },
+  {
+    "id": 96,
+    "type": "self",
+    "content": "Uống 1 ly nếu năm nay bạn đã từng vi phạm luật giao thông"
+  },
+  {
+    "id": 97,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng bị công an hốt"
+  },
+  {
+    "id": 98,
+    "type": "self",
+    "content": "Nếu bạn từng nói dối về thành tích của mình, uống 1 ly"
+  },
+  {
+    "id": 99,
+    "type": "self",
+    "content": "Đồng khởi: Tất cả cùng nâng ly"
+  },
+  {
+    "id": 100,
+    "type": "self",
+    "content": "Chỉ định một người, họ phải uống một ly"
+  },
+  {
+    "id": 101,
+    "type": "self",
+    "content": "Bạn từng đăng ảnh before after thì uống 1 ly"
+  },
+  {
+    "id": 102,
+    "type": "self",
+    "content": "Uống 1 ly nếu từng bị từ chối tỏ tình"
+  },
+  {
+    "id": 103,
+    "type": "self",
+    "content": "Cánh đàn ông uống một ly nào"
+  },
+  {
+    "id": 104,
+    "type": "self",
+    "content": "Ai chưa có người yêu uống 2 ly. Ai có người yêu uống 1 ly"
+  },
+  {
+    "id": 105,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng là con sen"
+  },
+  {
+    "id": 106,
+    "type": "self",
+    "content": "Tất cả mọi người đều uống, trừ bạn"
+  },
+  {
+    "id": 107,
+    "type": "self",
+    "content": "Nếu năm vừa bạn từng đặt mục tiêu mà chưa thực hiện được, kể mục tiêu và uống 1 ly"
+  },
+  {
+    "id": 108,
+    "type": "self",
+    "content": "Nếu bạn từng xoá ảnh vì ít like quá thì uống 1 ly"
+  },
+  {
+    "id": 109,
+    "type": "self",
+    "content": "Nếu bạn có Tinder trong điện thoại, uống 1 ly"
+  },
+  {
+    "id": 110,
+    "type": "self",
+    "content": "Nếu bạn từng nói dối để nghỉ làm, uống 1 ly"
+  },
+  {
+    "id": 111,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng nghỉ làm vì 'Tình trạng tinh thần' không tốt"
+  },
+  {
+    "id": 112,
+    "type": "self",
+    "content": "Nếu bạn từng gửi sai email người nhận, uống 1 ly"
+  },
+  {
+    "id": 113,
+    "type": "self",
+    "content": "Uống một ly nếu bạn từng cãi nhau với đồng nghiệp"
+  },
+  {
+    "id": 114,
+    "type": "self",
+    "content": "Uống một ly nếu bạn từng ngủ trong giờ làm, ở công việc hiện tại"
+  },
+  {
+    "id": 115,
+    "type": "self",
+    "content": "Uống một ly nếu bạn từng giả vờ làm việc khi sếp đi ngang qua"
+  },
+  {
+    "id": 116,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng đăng status/story bất mãn về công việc"
+  },
+  {
+    "id": 117,
+    "type": "self",
+    "content": "Bạn có đang yêu đơn phương ai không? Có thì uống 1 ly"
+  },
+  {
+    "id": 118,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn đang có 2 job cùng lúc"
+  },
+  {
+    "id": 119,
+    "type": "self",
+    "content": "Cụng ly với 1 bro"
+  },
+  {
+    "id": 120,
+    "type": "self",
+    "content": "Các chị đẹp uống nào"
+  },
+  {
+    "id": 121,
+    "type": "self",
+    "content": "Ai họ nguyễn thì uống 1 ly"
+  },
+  {
+    "id": 122,
+    "type": "self",
+    "content": "Họ nào trong đây nhiều nhất thì uống 1 ly"
+  },
+  {
+    "id": 123,
+    "type": "self",
+    "content": "Bạn, uống 1 ly"
+  },
+  {
+    "id": 124,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng nói xấu đồng nghiệp"
+  },
+  {
+    "id": 125,
+    "type": "self",
+    "content": "2 người cạnh bạn uống 1 ly"
+  },
+  {
+    "id": 126,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng bị té xe"
+  },
+  {
+    "id": 127,
+    "type": "self",
+    "content": "Mọi người uống 1 ly chia buồn nếu bạn từng thay ảnh đại diện sau một mối tình tan vỡ"
+  },
+  {
+    "id": 128,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng mua đồ ăn, vật phẩm theo phong trào"
+  },
+  {
+    "id": 129,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn đã từng thích ai đó trong công ty"
+  },
+  {
+    "id": 130,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng đem việc về nhà làm"
+  },
+  {
+    "id": 131,
+    "type": "self",
+    "content": "Nếu từng nghỉ làm đi du lịch, uống 1 ly"
+  },
+  {
+    "id": 132,
+    "type": "self",
+    "content": "Nếu bạn từng có ý tưởng kinh doanh, khởi nghiệp, uống 1 ly"
+  },
+  {
+    "id": 133,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng làm tình nguyện cho tổ chức, hoạt động"
+  },
+  {
+    "id": 134,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng đi xem phim 1 mình"
+  },
+  {
+    "id": 135,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng chơi game máy tính trong giờ làm việc"
+  },
+  {
+    "id": 136,
+    "type": "self",
+    "content": "Uống 1 ly nếu bạn từng chửi khách"
+  }
+]
